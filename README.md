@@ -7,6 +7,8 @@ This is a collection of simple color themes for the [ProtonMail](https://protonm
 ## Dark Theme (writh Cyberpunk edit)
 <img src="https://i.imgur.com/HCIZCiY.png" width="100%" />
 
+[Copy the CSS directly](https://github.com/writh/pm-theme/blob/master/themes/pm-dark-theme.css).
+
 
 
 &nbsp;
