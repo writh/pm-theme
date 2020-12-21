@@ -4,10 +4,10 @@ This is a collection of simple color themes for the [ProtonMail](https://protonm
 
 &nbsp;
 
-## Dark Theme
-<img src="https://amdelamar.com/pm-theme/screenshots/dark-screenshot-3.12.41.png" width="100%" />
+## Dark Theme (writh Cyberpunk edit)
+<img src="https://i.imgur.com/HCIZCiY.png" width="100%" />
 
-[Copy the CSS directly](https://amdelamar.com/pm-theme/themes/pm-dark-theme.min.css) and [edit the colors](#customize).
+
 
 &nbsp;
 
