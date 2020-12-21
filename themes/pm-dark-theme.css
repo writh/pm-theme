@@ -5,26 +5,23 @@
 * SPDX-License-Identifier: MIT
 */
 :root {
-	/* Core Theme Colors */
-	--theme1: #66669a;
-	--theme2: #fefefe;
-	--theme3: #222224;
-	--theme4: #36384e;
-	--theme5: #9397cd;
-	--theme6: #48486c;
-	--theme7: #35373e;
-
-	/* Alert & Status Colors */
-	--red: #cc9393;
-	--red-light: #ec6446;
-	--yellow: #dfdf19;
-	--yellow-light: #e7d360;
-	--green: #a6cc93;
-	--green-light: #89bc70;
-	--blue: #bce8f1;
-	--blue-light: #93b9cc;
-	--white: #FFF;
-	--black: #000;
+    --theme1: #7600fd;
+    --theme2: #0ff;
+    --theme3: #000000;
+    --theme4: #00ff10;
+    --theme5: #00f3ff;
+    --theme6: #a300ff;
+    --theme7: #ff00e3;
+    --red: #ff0000;
+    --red-light: #ec4646;
+    --yellow: #dfdf19;
+    --yellow-light: #fbff00;
+    --green: #39ac00;
+    --green-light: #55ff00;
+    --blue: #00ffc3;
+    --blue-light: #0af;
+    --white: #00B7FF;
+    --black: #000;
 }
 
 #exiting {
@@ -474,8 +471,8 @@ body.mobileMode #pm_sidebar section.sidebar ul.menu li button {
 }
 
 #conversation-view .message .frame {
-	color: var(--black) !important;
-	background-color: var(--white) !important;
+	color: var(--white) !important;
+	background-color: var(--black) !important;
 	border-top: 1px solid var(--theme4) !important;
 }
 
@@ -1613,9 +1610,9 @@ body .cg-notify-message.notification-info {
 }
 
 .conversation.active {
-	background: var(--theme6) !important;
-	color: var(--theme3) !important;
-	border-bottom-color: var(--theme7) !important;
+    background: #7400ff !important;
+    color: var(--theme3) !important;
+    border-bottom-color: #00ff64 !important;
 }
 
 .conversation.active h4 {
